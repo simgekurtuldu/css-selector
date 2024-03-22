@@ -63,7 +63,6 @@ public class DemoqaWebtablesTest {
         List<WebElement> elements = driver.findElements(By.cssSelector("div.rt-tr-group"));
         String[] lines = elements.get(3).getText().split("\\n");
         String firstLine = lines[0];
-        System.out.println(firstLine);
         Assert.assertEquals(firstLine,"Ahmet");
     }
     @AfterSuite
