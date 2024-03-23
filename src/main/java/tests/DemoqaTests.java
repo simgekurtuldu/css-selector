@@ -43,7 +43,8 @@ public class DemoqaTests {
         List<WebElement> elements = driver.findElements(By.cssSelector("button.btn-primary"));
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", elements.get(2));
         elements.get(2).click();
-        Assert.assertEquals(elements.get(2).getText(),"Click Me");
+        WebElement message = driver.findElement(By.cssSelector("p#dynamicClickMessage"));
+        Assert.assertEquals(message.getText(), "You have done a dynamic click");
     }
     @AfterSuite
     public void after() throws MalformedURLException{

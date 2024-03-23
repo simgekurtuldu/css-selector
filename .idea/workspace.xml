@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf809cf9-1507-4ed2-ab8c-b3c8ab6d9ab0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/drivers/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/drivers/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/PropertyManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/DemoqaTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tests/DemoqaWebtablesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf809cf9-1507-4ed2-ab8c-b3c8ab6d9ab0" name="Changes" comment="change DemoqaWebtablesTest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,6 +127,39 @@
       <option name="presentableId" value="Default" />
       <updated>1710668197700</updated>
     </task>
+    <task id="LOCAL-00001" summary="add DemoqaTests">
+      <option name="closed" value="true" />
+      <created>1711050361932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711050361932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add DemoqaTests">
+      <option name="closed" value="true" />
+      <created>1711050404473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711050404473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add DemoqaWebtablesTest">
+      <option name="closed" value="true" />
+      <created>1711050485134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711050485134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change DemoqaWebtablesTest">
+      <option name="closed" value="true" />
+      <created>1711114237085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711114237085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,5 +172,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add DemoqaTests" />
+    <MESSAGE value="add DemoqaWebtablesTest" />
+    <MESSAGE value="change DemoqaWebtablesTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="change DemoqaWebtablesTest" />
   </component>
 </project>
